@@ -7,10 +7,10 @@ An interactive performance report tracking monthly revenue trends, geographic di
 
 # Tech stack
 *Power BI Desktop: Main data tool which is used to create the interactive report. 
-*Data cleaning: Streamlined the dataset using excel and power query. 
-*Data Transformation: Crafyed fact and dimension table based on primary and foreign key relationships. 
-*DAX (Data Analysis Expressions): Used for creating calculated measures, dynamic visuals and conditional logic. 
-*File Format: .pbix for development and .png for dashboard previews.
+Data cleaning: Streamlined the dataset using excel and power query. 
+Data Transformation: Crafyed fact and dimension table based on primary and foreign key relationships. 
+DAX (Data Analysis Expressions): Used for creating calculated measures, dynamic visuals and conditional logic. 
+File Format: .pbix for development and .png for dashboard previews.
 
 # Data Source
 https://datadna.onyxdata.co.uk/
